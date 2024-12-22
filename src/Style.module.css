@@ -1,0 +1,21 @@
+
+.Accessories {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  .AudioDiv{
+    display: flex;
+    gap: 15px;
+  }
+  .Audio {
+    display: flex;
+    position: relative;
+    left: 680px;
+    text-decoration: none;
+    color: black;
+    gap: 20px; /* Space between Audio and Smart Wearable */
+  }
+  
+  
